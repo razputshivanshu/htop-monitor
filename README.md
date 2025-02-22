@@ -44,4 +44,5 @@ Server Time (IST): 2025-02-22 07:18:59 IST
 
 (top command output...)
 ```
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/dd03b622-a190-4daa-b773-082357a85896" />
 
